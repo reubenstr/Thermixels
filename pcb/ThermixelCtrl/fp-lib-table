@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name ESP32-DEVIT-V1)(type KiCad)(uri C:/Users/DrZoidburg/Desktop/projects/ThermalMessage/ThermalMessage/kicad-lib/ESP32-DEVIT-V1.pretty)(options "")(descr ""))
+)
